@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+paho-mqtt
+influxdb-client
+mcp
+pydantic
