@@ -1,0 +1,14 @@
+wing: h4d_project
+rooms:
+- name: edge
+  description: Files from edge/
+- name: intelligence
+  description: Files from intelligence/
+- name: persistence
+  description: Files from persistence/
+- name: transport
+  description: Files from transport/
+- name: frontend
+  description: Files from ui/
+- name: general
+  description: Files that don't fit other rooms
